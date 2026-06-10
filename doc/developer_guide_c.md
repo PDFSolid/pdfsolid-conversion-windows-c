@@ -1053,9 +1053,9 @@ The SDK supports setting image scaling. If you want to double the image size, se
 The SDK supports `image_path_enhance` for enhancing the display of image paths. This option can be enabled when you want to improve the display effect of paths within the PDF page.
 
 - Disable `image_path_enhance` option:
-  ![Disable image_path_enhance](/image/1.png)
+  ![Disable image_path_enhance](image/1.png)
 - Enable `image_path_enhance` option:
-  ![Enable image_path_enhance](/image/2.png)
+  ![Enable image_path_enhance](image/2.png)
 
 ### Notice
 
@@ -1194,9 +1194,9 @@ Extract text, tables, and images from PDF documents to a JSON file.
 Tables can commonly be divided into two categories:
 
 - Standard table: The table border and inner lines are complete and clear. There is no need to manually add table lines to divide table content.
-  ![Standard table example](/image/3.png)
+  ![Standard table example](image/3.png)
 - Non-standard table: The table lacks borders or clear inner lines, requiring manual additions of table lines to separate content.
-  ![Non-standard table example](/image/4.png)
+  ![Non-standard table example](image/4.png)
 
 ### Table Extraction Option
 
